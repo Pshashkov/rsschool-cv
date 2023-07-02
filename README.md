@@ -1,1 +1,2 @@
-# rsschool-cv
+https://Pshashkov.github.io/rsschool-cv/cv
+
